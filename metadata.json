@@ -1,0 +1,8 @@
+{
+  "name": "GigPilot",
+  "description": "AI 영수증 스캔, 세금 견적, 청구서 생성을 제공하는 프리랜서 및 긱 워커를 위한 금융 OS입니다.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
